@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lyz:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="lyz-1.0.0.war">
+      <element id="artifact" artifact-name="lyz:war exploded" />
+    </root>
+  </artifact>
+</component>
